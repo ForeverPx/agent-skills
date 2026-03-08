@@ -1,0 +1,24 @@
+README.md
+  80788817ab68de2e 1-188
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.6",
+  "base_commit_sha": "78959d6f84af328734c100c20b5d2a24f51989d0",
+  "prompts": {
+    "80788817ab68de2e": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "5b1bc521-e1d7-4493-88c3-c7cc15138885",
+        "model": "claude-4.6-sonnet-medium-thinking"
+      },
+      "human_author": "panxiao <panxiao@cvte.com>",
+      "messages": [],
+      "total_additions": 188,
+      "total_deletions": 0,
+      "accepted_lines": 188,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/cc19a1e0a495577f947e8b1ee3fed4fd162a25ac8de7143722b566c12c733958"
+    }
+  }
+}
