@@ -5,6 +5,7 @@
 
 ## Configuration
 - **Repo Path**: `/root/clawd/codes/my-ai-memory`
+- **Repo Github URL**: `待补充`
 - **Checkin Data**: `memos/checkin.md` (打卡记录)
 - **Weekly Goals**: 健身 3 次、吉他练习 5 次、维生素 5 次、博客 4 次
 
