@@ -1,0 +1,24 @@
+blog-check-in-skill.md
+  a52a478a5507a7c0 1-155,157-170
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.6",
+  "base_commit_sha": "d6b11374eac0fe5161aa129191c6e6c9863be62f",
+  "prompts": {
+    "a52a478a5507a7c0": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "053722cd-3409-4fe7-82bb-b5a30976211a",
+        "model": "claude-4.6-sonnet-medium-thinking"
+      },
+      "human_author": "panxiao <panxiao@cvte.com>",
+      "messages": [],
+      "total_additions": 170,
+      "total_deletions": 0,
+      "accepted_lines": 169,
+      "overriden_lines": 1,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/919d9042668380e1d39bb1bdb85234100d7cfa3dcda9516cc90f5309f1a6a4ed"
+    }
+  }
+}
