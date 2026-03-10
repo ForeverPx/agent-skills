@@ -1,0 +1,24 @@
+skills/feishu-chat-summary/SKILL.md
+  8c9306258461d89c 1-100
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.6",
+  "base_commit_sha": "38707608a6142c22ead75598c3c5389482ce45f2",
+  "prompts": {
+    "8c9306258461d89c": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "e0317f34-4ccf-4bde-b347-1d5be188272f",
+        "model": "claude-4.6-sonnet-medium-thinking"
+      },
+      "human_author": "panxiao <panxiao@cvte.com>",
+      "messages": [],
+      "total_additions": 100,
+      "total_deletions": 0,
+      "accepted_lines": 100,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/2279e554aece54c0b6ff67bacc0256057939d2dda61110aa65402f8487968d8b"
+    }
+  }
+}
