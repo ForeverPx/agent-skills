@@ -180,6 +180,7 @@ AI 回复用户的标准格式示例。
 ## 相关文章
 
 - [我用 AI 打造了一个「自律监督系统」，再也不用靠意志力了](./blog-check-in-skill.md) — check-in-skill 的设计思路与使用体验
+- [我让 AI 帮我收藏互联网，再也不怕「看过就忘」了](./blog-collector-skill.md) — collector skill 的设计思路与使用体验
 
 ---
 
