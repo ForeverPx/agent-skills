@@ -1,0 +1,24 @@
+README.md
+  18a9751b7cd297ca 183
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.11",
+  "base_commit_sha": "d3225b24eb03dc53373c831ac3c7e9e9b90b0a10",
+  "prompts": {
+    "18a9751b7cd297ca": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "1a78ee13-f0bc-4fd2-b7ed-bf96b96fa1d8",
+        "model": "claude-4.6-sonnet-medium-thinking"
+      },
+      "human_author": "panxiao <panxiao@cvte.com>",
+      "messages": [],
+      "total_additions": 167,
+      "total_deletions": 1,
+      "accepted_lines": 166,
+      "overriden_lines": 0,
+      "messages_url": "https://gitai.gz.cvte.cn/cas/f43201be74282f68360c5f4922bac51daa90160782f3628bcb3eeb86bbb51e40"
+    }
+  }
+}
